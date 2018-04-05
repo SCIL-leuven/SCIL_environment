@@ -2,6 +2,6 @@
 
 ###Part II of installing the scRNA-seq environment
 conda create -n ScilEnv -c bioconda --file requirements.txt
-source activate VoetEnv
+source activate ScilEnv
 conda install -c r r-essentials
 
